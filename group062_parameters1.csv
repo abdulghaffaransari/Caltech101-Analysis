@@ -1,0 +1,8 @@
+Parameter,Value
+classifier_name,SVC
+library,sklearn
+test_size,0.25
+C,1.0
+kernel,rbf
+gamma,scale
+random_state,42

@@ -1,0 +1,8 @@
+Parameter,Value
+classifier_name,XGBClassifier
+library,xgboost
+test_size,0.25
+n_estimators,
+max_depth,
+learning_rate,
+random_state,42
